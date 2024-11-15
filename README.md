@@ -10,7 +10,7 @@ Bu çalışmada kullanılan veri setini etiketleme sürecinde öncelikle iki far
 | nefret söylemi  | 276  |
 | saldırgan ifade  | 60  |
 | hiçbiri  | 664  |
-| TOPLAM  | 1000  |
+| **TOPLAM**  | **1000**  |
 
 # İletişim ve Atıf Bilgileri
 
@@ -22,8 +22,8 @@ Bu çalışmada kullanılan veri setini etiketleme sürecinde öncelikle iki far
 
 **Veri kümesi üzerinde yapılan çalışmaya dair yayın:**
 
-Dergipark: [https://ieeexplore.ieee.org/document/7483676/](https://dergipark.org.tr/tr/pub/ejosat/issue/60926/903854)
+Dergipark: [https://dergipark.org.tr/tr/pub/ejosat/issue/60926/903854](https://dergipark.org.tr/tr/pub/ejosat/issue/60926/903854)
 
-ResearchGate: [https://www.researchgate.net/publication/303772480_Cross_usage_of_articles_and_tweets_on_author_identification](https://www.researchgate.net/publication/350699801_Turkce_Tweetler_uzerinde_Makine_Ogrenmesi_ile_Nefret_Soylemi_Tespiti)
+ResearchGate: [https://www.researchgate.net/publication/350699801_Turkce_Tweetler_uzerinde_Makine_Ogrenmesi_ile_Nefret_Soylemi_Tespiti](https://www.researchgate.net/publication/350699801_Turkce_Tweetler_uzerinde_Makine_Ogrenmesi_ile_Nefret_Soylemi_Tespiti)
 
 
