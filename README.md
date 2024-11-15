@@ -3,7 +3,7 @@
 
 Veri seti üzerinde yapılan çalışma 2021 yılında **Avrupa Bilim ve Teknoloji Dergisi** dergisinde **"Türkçe Tweetler üzerinde Makine Öğrenmesi ile Nefret Söylemi Tespiti"** başlığıyla yayımlanmıştır. 
 
-Bu çalışmada kullanılan veri setini etiketleme sürecinde öncelikle iki farklı değerlendirici birbirinden bağımsız olarak tweetleri etiketlenmiştir. Yapılan bağımsız etiketlemenin sonucunda iki değerlendiricinin vermiş olduğu etiketler karşılaştırılmış ve değerlendiriciler bir araya gelerek farklı etiketlenen veriler üzerinde tartışarak birbirini ikna etme yoluyla uyuşum oranını %96.4’e yükseltmiştir. Üzerinde mutabık kalınamayan tweetler ise üçüncü değerlendiriciye sorulmuş ve en sonunda üçüncü değerlendiricinin verdiği etiketle birlikte oy çoğunluğuna sahip etiket değeri o verinin etiketi olarak atanmıştır. Son durumda veri setindeki sınıf dağılımı şöyle olmuştur:
+Bu çalışmada kullanılan veri setini etiketleme sürecinde öncelikle iki farklı değerlendirici birbirinden bağımsız olarak tweetleri etiketlemiştir. Yapılan bağımsız etiketlemenin sonucunda iki değerlendiricinin vermiş olduğu etiketler karşılaştırılmış ve değerlendiriciler bir araya gelerek farklı etiketlenen veriler üzerinde tartışarak birbirini ikna etme yoluyla uyuşum oranını %96.4’e yükseltmiştir. Üzerinde mutabık kalınamayan tweetler ise üçüncü değerlendiriciye sorulmuş ve en sonunda üçüncü değerlendiricinin verdiği etiketle birlikte oy çoğunluğuna sahip etiket değeri o verinin etiketi olarak atanmıştır. Son durumda veri setindeki sınıf dağılımı şöyle olmuştur:
 
 | Etiket  | Tweet Sayısı |
 | ------------- | ------------- |
