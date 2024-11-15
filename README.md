@@ -1,5 +1,5 @@
 # Türkçe Nefret Söylemi Veri Seti 1
-**"Türkçe Nefret Söylemi Veri Seti v1.xlsx*"" isimli excel dosyasında 1000 adet Türkçe tweetten oluşan etiketlenmiş nefret söylemi veri seti yer almaktadır.
+**"Türkçe Nefret Söylemi Veri Seti v1.xlsx"** isimli excel dosyasında 1000 adet Türkçe tweetten oluşan etiketlenmiş nefret söylemi veri seti yer almaktadır.
 
 Veri seti üzerinde yapılan çalışma 2021 yılında **Avrupa Bilim ve Teknoloji Dergisi** dergisinde **"Türkçe Tweetler üzerinde Makine Öğrenmesi ile Nefret Söylemi Tespiti"** başlığıyla yayımlanmıştır. 
 
